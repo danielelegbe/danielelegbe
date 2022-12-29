@@ -1,4 +1,4 @@
-## Hi, I'm Daniel. I'm a software developer based in London
+## Hi, I'm Daniel. I'm a Software Developer based in London
 
 - 💻 I'm passionate about building scalable and reliable applications.
 - 🐞 I love to solve tricky problems and bugs!
