@@ -1,9 +1,5 @@
 ## Hi, I'm Daniel. I'm a Software Developer based in London
 
-- 💻 I'm passionate about building scalable and reliable applications.
-- 🐞 I love to solve tricky problems and bugs!
-- 🌎 I'm most recently working on Git Social - a web platform designed for developers to work together on open source projects. 
-
 ### Some of my favourite technologies: <br>
 
 <code><img height="40" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
