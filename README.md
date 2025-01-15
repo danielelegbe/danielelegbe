@@ -1,4 +1,4 @@
-## Hi, I'm Daniel. I'm a Software Developer based in London
+## Hey, I'm Daniel. I'm a Senior Software Engineer based in London
 
 ### Some of my favourite technologies: <br>
 
@@ -12,9 +12,8 @@
 
 ### Outside of coding, I love to:
 
-> - 🎶 Produce and engineer music as a hobby 
+> - 🏖️ Travel to new places
 > - ⚽️ Play football and support my favourite team!
 > - 🏃‍♂️ Exercise and stay fit!
 
-#### Social
-[Linkedin](https://www.linkedin.com/in/daniel-elegbe-b6897b20b/)
+
